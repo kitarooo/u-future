@@ -1,4 +1,7 @@
-import exception.BookAlreadyExistException;
+package backend.microservices;
+
+
+import backend.microservices.exception.BookAlreadyExistException;
 
 import java.util.ArrayList;
 import java.util.List;
